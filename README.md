@@ -1,4 +1,16 @@
-# SHIELD<img src="logo.png" alt="Logo" width="30" height="30">: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models
+# SHIELD<img src="logo/logo.png" alt="Logo" width="30" height="30">: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models
+<p align="center">
+  	<a href="https://img.shields.io/badge/version-v0.1.0-blue">
+      <img alt="version" src="https://img.shields.io/badge/version-v0.1.0-blue?color=FF8000?color=009922" />
+    </a>
+  <a >
+       <img alt="Status-building" src="https://img.shields.io/badge/Status-building-blue" />
+  	</a>
+  <a >
+       <img alt="PRs-Welcome" src="https://img.shields.io/badge/PRs-Welcome-red" />
+  	</a>
+    <br />
+</p>
 
 
 ## Release
