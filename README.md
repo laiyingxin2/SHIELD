@@ -17,7 +17,7 @@ In this paper, we conduct a detailed comparison of two models: Google's **Gemini
 
 
 <p align="center">
-<img src="logo/MACOT_Introduction-1.png" style="width: 800px" align=center>
+<img src="logo/MACOT_Introduction-1.png" style="width: 600px" align=center>
 </p>
 
 
