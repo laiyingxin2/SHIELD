@@ -12,13 +12,17 @@
     <br />
 </p>
 
+<p align="center">
+<img src="logo/MACOT_Introduction-1.png" style="width: 520px" align=center>
+</p>
+
+
+
 ## Overview
 In this paper, we conduct a detailed comparison of two models: Google's **Gemini** and OpenAI's **GPT-4V(ision)**. We utilize Zero-Shot/One-Shot as well as COT methods to comprehensively analyze the performance of these two models in FAS and Face Forgery Detection tasks.
 
 
-<p align="center">
-<img src="logo/MACOT_Introduction-1.png" style="width: 600px" align=center>
-</p>
+
 
 
 ## Release
