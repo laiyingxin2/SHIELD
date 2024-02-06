@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="logo/MACOT_Introduction-1.png" style="width: 520px" align=center>
+<img src="logo/logo.png" style="width: 200px" align=center>
 </p>
 
 
