@@ -31,4 +31,4 @@ In this paper, we conduct a detailed comparison of two models: Google's **Gemini
 
 
 ## Release
-- [2024/2/6]🔥🔥🔥We will release the evaluation result (about 100 pages) and the evaluation code very soon.
+- [2024/2/7]🔥🔥🔥We will released the evaluation result [Arxiv Paper](https://arxiv.org/abs/2402.04178) (about 100 pages) and the evaluation code.
