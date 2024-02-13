@@ -23,6 +23,19 @@ In this paper, we conduct a detailed comparison of two models: Google's **Gemini
 
 
 
+
+
+
+
+
+## Release
+- [2024/2/7]🔥🔥🔥We released the evaluation result [Arxiv Paper](https://arxiv.org/abs/2402.04178) (about 100 pages) and the code.
+
+
+
+
+
+
 ## 🔗 Citation
 
 If you find our work helpful, please cite:
@@ -38,9 +51,3 @@ If you find our work helpful, please cite:
 ```
 
 
-
-
-
-
-## Release
-- [2024/2/7]🔥🔥🔥We released the evaluation result [Arxiv Paper](https://arxiv.org/abs/2402.04178) (about 100 pages) and the code.
