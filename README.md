@@ -23,7 +23,19 @@ In this paper, we conduct a detailed comparison of two models: Google's **Gemini
 
 
 
+## 🔗 Citation
 
+If you find our work helpful, please cite:
+
+```bibtex
+@article{shi2024shield,
+  title={SHIELD: An Evaluation Benchmark for Face Spoofing and Forgery Detection with Multimodal Large Language Models},
+  author={Shi, Yichen and Gao, Yuhao and Lai, Yingxin and Wang, Hongyang and Feng, Jun and He, Lei and Wan, Jun and Chen, Changsheng and Yu, Zitong and Cao, Xiaochun},
+  journal={arXiv preprint arXiv:2402.04178},
+  year={2024}
+}
+
+```
 
 
 
